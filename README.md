@@ -13,7 +13,6 @@ Wanted to add some more things but found it difficult giving the player is limit
 ## Implementation
 -Descriptive readme that explains the game +2
 -Gameplay that has an end goal +2
--Repository with at least 10 commits +2
 -Coins to symbolize the player has done well +1
 -Multiple enemies to make getting to the end challenging 
 -Gameplay happens on level +2
