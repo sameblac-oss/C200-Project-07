@@ -11,6 +11,7 @@ Get to the end to earn your reward without being hit by the enemies. The catch i
 Wanted to add some more things but found it difficult giving the player is limited with one button 
 
 ## Implementation
+-Repository with at least 10 commits +2
 -Descriptive readme that explains the game +2
 -Gameplay that has an end goal +2
 -Coins to symbolize the player has done well +1
