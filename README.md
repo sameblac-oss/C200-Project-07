@@ -17,11 +17,11 @@ Wanted to add some more things but found it difficult giving the player is limit
 -Multiple enemies to make getting to the end challenging +1 
 -Gameplay happens on level +2
 -Ground is styled and made to look authentic +1 
--Enemies have design and unique movement +1 
+-Enemies have interesting design and unique jumping movement +1 
 
 
 ## Special Focus
-What is your special focus? What did you do for it? How would you rate your own effort? 1-5. (I will agree or disagree with this sentiment, but I want to know what you thought)
+I'd give myself a 2 or a 3, as I could have added more and come up with some better ideas. I am not the most creative person nor am I the best at making games, but I love playing them and Mario is my favorite so I wanted to do something centered around that. 
 
 ## References
 
